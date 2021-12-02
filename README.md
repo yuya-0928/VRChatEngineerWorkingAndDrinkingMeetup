@@ -1,4 +1,4 @@
-# VRC-EngineerWorkingAndDrinkingMeetup
+# VRChatEngineerWorkingAndDrinkingMeetup
 
 ## VRCエンジニア作業飲み集会とは？
 
