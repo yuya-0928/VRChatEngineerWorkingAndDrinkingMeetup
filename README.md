@@ -13,3 +13,5 @@
 
 ## GithubのTips
 - [プルリクエストをIssueにリンクする方法](https://docs.github.com/ja/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+
+- [参考にできるGithub絵文字の付け方ルール(例)](https://github.com/kazupon/git-commit-message-convention#emojis)
